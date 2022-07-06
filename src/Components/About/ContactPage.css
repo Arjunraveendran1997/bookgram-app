@@ -1,0 +1,42 @@
+.container {
+    width: 100%;
+    height: auto;
+   
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 3rem;
+    color: #fb5607;
+}
+
+.left-section {
+    left: "1rem";
+    margin-top: 1rem;
+    margin-left: 9rem;
+}
+.right-section{
+    margin-top: -2rem;
+}
+
+.right-heading {
+    right: 1rem;
+    margin-left: 55rem;
+    margin-top: -6rem;
+    color: #fb5607
+}
+
+.right-details {
+    margin-left: 55rem;
+}
+
+.left-details h6 {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: #fb8500;
+}
